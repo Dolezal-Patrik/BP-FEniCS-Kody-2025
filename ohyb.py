@@ -37,7 +37,7 @@ w=TestFunction(V)
 #-----[ okrajove podminky ]-----
 
 print('sestavuji okrajove podminky')
-eps=1
+eps=0.01
 class pointload(UserExpression):
   def eval(self,value,x):
 
