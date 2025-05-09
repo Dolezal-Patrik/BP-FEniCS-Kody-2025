@@ -1,0 +1,12 @@
+# BP-FEniCS-Kody-2025
+Tento repozitář obsahuje tři kódy napsané ve FEniCSu pro bakalářskou práci (2025):
+- `tah.py`: Simulace tahu.
+- `ohyb.py`: Simulace ohybu.
+- `nelinearni_ohyb.py`: Simulace nelineárního ohybu.
+
+Kódy byly použity pro analýzu napětí v rámci mé bakalářské práce na [].
+## Jak použít
+1. Nainstalujte FEniCS (https://fenicsproject.org/).
+2. Spusťte jednotlivé skripty v Pythonu.
+
+MIT License (viz soubor LICENSE)
