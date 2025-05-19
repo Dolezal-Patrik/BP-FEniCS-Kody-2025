@@ -2,7 +2,7 @@
 Tento repozitář obsahuje tři kódy napsané ve FEniCSu pro bakalářskou práci (2025):
 - `tah.py`: Simulace tahu.
 - `ohyb.py`: Simulace ohybu.
-- `geom.nonlin.ohyb.py`: Simulace geometricky nelineárního ohybu.
+- `geometricky_nelinearni_ohyb.py`: Simulace geometricky nelineárního ohybu.
 
 Kódy byly použity pro analýzu napětí v rámci mé bakalářské práce na [].
 ## Jak použít
