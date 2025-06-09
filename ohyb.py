@@ -78,7 +78,7 @@ def sigma(u):
 
 #-----[ slaba formulace ]-----
 a=c*inner(sigma(u),epsilon(w))*dx
-L=dot(pl,w)*ds(4)
+L=dot(pl,w)*ds(1)
 
 #-----[ reseni ]-----
 
